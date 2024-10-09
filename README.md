@@ -32,6 +32,8 @@
 $ npm install
 ```
 
+**IMPORTANT** Download PostgreSQL, and make a new Database called _blog-database_. The name of the database is defined in the file _ormconfig.json_.
+
 ## Running the app
 
 ```bash
